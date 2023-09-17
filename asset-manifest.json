@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.345352c0.css",
+    "main.js": "/reactapp/static/js/main.ecf3af45.js",
+    "static/js/787.128fc6e9.chunk.js": "/reactapp/static/js/787.128fc6e9.chunk.js",
+    "static/media/crime1.png": "/reactapp/static/media/crime1.9db0e91197c231075bb2.png",
+    "static/media/me.png": "/reactapp/static/media/me.82d10ce7daefb7dffa13.png",
+    "static/media/crime2.png": "/reactapp/static/media/crime2.111a2a172c534ddae951.png",
+    "static/media/Hansaka Sachee Bandara.pdf": "/reactapp/static/media/Hansaka Sachee Bandara.e3c10f0f6ce927a186bc.pdf",
+    "static/media/crime4.png": "/reactapp/static/media/crime4.97f5e170f319dea92d05.png",
+    "static/media/portfolio1.png": "/reactapp/static/media/portfolio1.d824e797e736ceca4c11.png",
+    "static/media/portfolio3.png": "/reactapp/static/media/portfolio3.46dee7ce072999dd0500.png",
+    "static/media/portfolio2.png": "/reactapp/static/media/portfolio2.5796347fd8f417af35e2.png",
+    "static/media/portfolio4.png": "/reactapp/static/media/portfolio4.40658b57b26e4b6e6c92.png",
+    "static/media/crime3.png": "/reactapp/static/media/crime3.7cd16bafbc4b25be6536.png",
+    "static/media/crime5.png": "/reactapp/static/media/crime5.38b182145cb867e1f11f.png",
+    "static/media/slide3.png": "/reactapp/static/media/slide3.20dd0c3073a51b0c1a52.png",
+    "static/media/slide1.png": "/reactapp/static/media/slide1.24ea2448813f0bd0aee6.png",
+    "static/media/slide2.png": "/reactapp/static/media/slide2.5f848a9946024926d661.png",
+    "static/media/hansaka.png": "/reactapp/static/media/hansaka.67dbd5b588490d184489.png",
+    "index.html": "/reactapp/index.html",
+    "main.345352c0.css.map": "/reactapp/static/css/main.345352c0.css.map",
+    "main.ecf3af45.js.map": "/reactapp/static/js/main.ecf3af45.js.map",
+    "787.128fc6e9.chunk.js.map": "/reactapp/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.345352c0.css",
+    "static/js/main.ecf3af45.js"
+  ]
+}
