@@ -1,0 +1,48 @@
+.App {
+     font-family: Papyrus, fantasy;
+     font-weight: 800;
+     font-size: 40px;
+     text-align: center;
+     display: flex;
+     justify-content:right;
+     /* align-items: center; */
+     min-height: 100vh;
+     color: rgb(255, 255, 255);
+     max-width: 390px;
+     /* background: green; */
+     text-shadow: 10px;
+     margin-top: 350px;
+ }
+
+
+ .image-class {
+     max-width: 100%; 
+     max-height: 200px; 
+     /* display: block;  */
+     justify-content: left;
+     align-items: center;
+     margin-top: 298px;
+     margin-left: 30%;
+   }
+   .parastyle{
+     color: azure;
+     align-items: center;
+     justify-content: center;
+     margin-top: 316px;
+     font-size: 15px;
+     text-indent: 30px;
+     border-radius: 15px;
+     letter-spacing: 1px;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     padding: 1px;
+     padding-left: 1px;
+   }
+
+   .hovereffect {
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+   }
+       .hovereffect:hover {
+          
+          box-shadow:1px 6px 20px 10px rgb(219 150 150 / 20%);
+        }
+    

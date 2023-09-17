@@ -1,0 +1,13 @@
+/* .navbarComp {
+     background: #ffe01b ;
+     transition: 0.3s;
+   } */
+   
+   /* .navbarScrolled {
+     background-color: rgb(128, 30, 30) ;
+     color: white;
+   } */
+   nav {
+     backdrop-filter: blur(15px) brightness(75%) saturate(70%);
+     
+}
